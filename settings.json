@@ -1,0 +1,21 @@
+{
+    "wifiSSID": "someSSID",
+    "wifiPassword": "somePassword",
+    "station": [
+        {
+            "name": "Q-Music",
+            "url": "http://somewhere.qmusic.nl/stream/mp3",
+            "image": "/stationImages/qmusic.png"
+        },
+        {
+            "name": "Arrow Classic Rock",
+            "url": "http://somewhere.arrow.nl/stream/mp3",
+            "image": "/stationImages/arrow.png"
+        },
+        {
+            "name": "Radio 538",
+            "url": "http://somewhere.radio538.nl/stream/mp3",
+            "image": "/stationImages/radio538.png"
+        }
+    ]
+}
